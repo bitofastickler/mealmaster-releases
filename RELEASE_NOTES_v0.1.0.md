@@ -15,6 +15,7 @@ First public desktop release of Mealmaster.
 
 - This release is intended for Windows
 - Data is stored locally on the machine running the app
+- AI-backed planning requires the user to enter their own OpenAI API key on first launch
 - Some planning behavior may differ depending on whether optional AI configuration is enabled
 - If you have used earlier internal builds, this release reflects the Mealmaster product naming and planner-first layout
 

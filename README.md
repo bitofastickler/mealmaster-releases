@@ -56,10 +56,13 @@ The goal is getting to a workable week faster.
 
 ## Windows Setup
 
-1. Download `Mealmaster.exe` from the latest release.
-2. Run the file.
-3. If Windows shows a trust warning for an unsigned app, continue only if you trust the download source.
-4. Use the app locally on your machine.
+1. Download the Windows release files.
+2. Run `Create-Mealmaster-DesktopShortcut.bat` to create the `Mealmaster` desktop button.
+3. Open Mealmaster from the desktop shortcut.
+4. On first launch, paste your own OpenAI API key when prompted if you want AI-backed planning.
+5. If Windows shows a trust warning for an unsigned app, continue only if you trust the download source.
+
+If you skip API setup, Mealmaster still works in standard planner mode without AI.
 
 ## Privacy
 
@@ -67,6 +70,7 @@ Mealmaster is designed for local use.
 Your saved household, pantry, and planning data stay on your machine unless you choose to host or deploy the app somewhere else.
 
 Some builds may support optional AI-backed planning behavior depending on configuration.
+Public desktop use is designed around each user providing their own OpenAI API key locally.
 
 ## Support
 
