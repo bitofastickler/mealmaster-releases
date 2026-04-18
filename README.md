@@ -80,7 +80,8 @@ Please do not post API keys, private household information, or other secrets in 
 
 ## Terms
 
-Mealmaster is free to download and use under the terms included with each release.
+Mealmaster is free to download and use for personal or internal household use under the terms included with each release.
+No commercial-use rights are granted through this repository or its releases.
 This repository does not provide access to the private source code.
 
 ## Release Notes

@@ -1,12 +1,20 @@
 Mealmaster Free Use Terms
 
 This release is provided for personal or internal household use at no charge.
+No commercial-use rights are granted.
 
 This release does not provide access to, or rights in, the private source code.
 
-You may not redistribute, modify, reverse engineer, decompile, sell, sublicense,
-or create derivative works from this release except where applicable law clearly
-does not allow such restrictions.
+You may not use this release in any manner that is intended for or directed
+toward commercial advantage or monetary compensation.
+
+You may not charge for access to this release, sell it, lease it, sublicense it,
+bundle it into a paid offering, or use it to provide paid, hosted, client, or
+revenue-generating services to other people.
+
+You may not redistribute, modify, reverse engineer, decompile, or create
+derivative works from this release except where applicable law clearly does not
+allow such restrictions.
 
 Mealmaster branding, artwork, and product identity remain the property of the
 copyright holder.
