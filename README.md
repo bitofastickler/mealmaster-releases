@@ -4,9 +4,12 @@
   <img src="assets/mascot-mealmaster.svg" alt="Mealmaster robot mascot" width="220">
 </p>
 
+
 <p align="center"><strong>Practical weekly meal planning.</strong></p>
 
 <p align="center">Simple dinner plans. Optional pantry tracking. A built-in planner that helps without taking over.</p>
+
+---
 
 This repository is the public download page for Mealmaster releases.
 It is not the source code repository.
