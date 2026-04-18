@@ -1,0 +1,56 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mealmaster robot mascot</title>
+  <desc id="desc">A cheerful meal-planning robot with a pantry badge, clipboard, and warm kitchen glow.</desc>
+  <defs>
+    <linearGradient id="bg" x1="72" y1="40" x2="440" y2="456" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6D7A8"/>
+      <stop offset="1" stop-color="#C6D8A8"/>
+    </linearGradient>
+    <linearGradient id="body" x1="134" y1="124" x2="376" y2="404" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6F1E8"/>
+      <stop offset="1" stop-color="#D9D0C4"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="188" y1="188" x2="320" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7B8F55"/>
+      <stop offset="1" stop-color="#5C7140"/>
+    </linearGradient>
+    <filter id="shadow" x="68" y="60" width="376" height="392" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="12"/>
+      <feGaussianBlur stdDeviation="18"/>
+      <feColorMatrix values="0 0 0 0 0.25 0 0 0 0 0.18 0 0 0 0 0.10 0 0 0 0.18 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+  </defs>
+  <rect x="34" y="34" width="444" height="444" rx="120" fill="url(#bg)"/>
+  <circle cx="392" cy="126" r="28" fill="#FFF8EF" opacity="0.7"/>
+  <circle cx="114" cy="156" r="16" fill="#FFF8EF" opacity="0.75"/>
+  <g filter="url(#shadow)">
+    <rect x="132" y="120" width="248" height="280" rx="60" fill="url(#body)" stroke="#8E7A69" stroke-opacity="0.18" stroke-width="4"/>
+    <rect x="174" y="94" width="164" height="48" rx="24" fill="#8E7A69" opacity="0.8"/>
+    <circle cx="256" cy="154" r="18" fill="#C96B4A"/>
+    <rect x="184" y="164" width="144" height="110" rx="28" fill="#F9F5EF" stroke="#8E7A69" stroke-opacity="0.14"/>
+    <circle cx="228" cy="204" r="16" fill="#1B1A17"/>
+    <circle cx="284" cy="204" r="16" fill="#1B1A17"/>
+    <circle cx="222" cy="198" r="5" fill="#FFF7E7"/>
+    <circle cx="278" cy="198" r="5" fill="#FFF7E7"/>
+    <rect x="212" y="228" width="88" height="14" rx="7" fill="#8E7A69" opacity="0.7"/>
+    <rect x="176" y="284" width="160" height="78" rx="28" fill="#E7E0D7"/>
+    <rect x="156" y="310" width="68" height="24" rx="12" fill="#8E7A69"/>
+    <rect x="288" y="310" width="68" height="24" rx="12" fill="#8E7A69"/>
+    <rect x="118" y="248" width="34" height="92" rx="17" fill="#D8CDBE"/>
+    <rect x="360" y="248" width="34" height="92" rx="17" fill="#D8CDBE"/>
+    <rect x="108" y="274" width="52" height="20" rx="10" fill="#7B8F55"/>
+    <rect x="352" y="274" width="52" height="20" rx="10" fill="#7B8F55"/>
+    <path d="M172 150L144 174" stroke="#8E7A69" stroke-width="14" stroke-linecap="round"/>
+    <path d="M340 150L368 174" stroke="#8E7A69" stroke-width="14" stroke-linecap="round"/>
+    <path d="M228 286C240 275 272 275 284 286" stroke="#8E7A69" stroke-width="12" stroke-linecap="round"/>
+    <path d="M156 410C182 384 214 372 256 372C298 372 330 384 356 410" stroke="#8E7A69" stroke-width="18" stroke-linecap="round" opacity="0.85"/>
+    <rect x="228" y="368" width="56" height="28" rx="14" fill="url(#accent)"/>
+    <rect x="242" y="376" width="28" height="12" rx="6" fill="#F9F5EF" opacity="0.9"/>
+  </g>
+  <circle cx="188" cy="346" r="18" fill="#C96B4A" opacity="0.18"/>
+  <circle cx="324" cy="342" r="18" fill="#7B8F55" opacity="0.18"/>
+</svg>
