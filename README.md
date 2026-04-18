@@ -4,7 +4,7 @@
   <img src="assets/mascot-mealmaster.svg" alt="Mealmaster robot mascot" width="220">
 </p>
 
-<p align="center"><strong>Practical weekly meal planning for a real household.</strong></p>
+<p align="center"><strong>Practical weekly meal planning.</strong></p>
 
 <p align="center">Simple dinner plans. Optional pantry tracking. A built-in planner that helps without taking over.</p>
 
