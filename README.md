@@ -26,7 +26,7 @@ Download the main app file from the latest release:
 
 ## What Mealmaster Does
 
-- Creates a 7-dinner weekly plan
+- Creates a meal plan for as many dinners as you need, from 1 to 7
 - Keeps household preferences simple and editable
 - Supports optional pantry-aware planning
 - Lets you favorite recipes and refine the week
